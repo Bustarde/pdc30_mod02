@@ -15,3 +15,6 @@ C:\Users\User\source\repos\pdc03_mod02\pdc03_mod02\pdc03_mod02\bin\Debug\netstan
 C:\Users\User\source\repos\pdc03_mod02\pdc03_mod02\pdc03_mod02\bin\Debug\netstandard2.0\pdc03_mod02.pdb
 C:\Users\User\source\repos\pdc03_mod02\pdc03_mod02\pdc03_mod02\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\User\source\repos\pdc03_mod02\pdc03_mod02\pdc03_mod02\obj\Debug\netstandard2.0\ref\pdc03_mod02.dll
+C:\Users\User\source\repos\pdc03_mod02\pdc03_mod02\pdc03_mod02\obj\Debug\netstandard2.0\activity3.xaml.g.cs
+C:\Users\User\source\repos\pdc03_mod02\pdc03_mod02\pdc03_mod02\obj\Debug\netstandard2.0\activity4.xaml.g.cs
+C:\Users\User\source\repos\pdc03_mod02\pdc03_mod02\pdc03_mod02\obj\Debug\netstandard2.0\activity5.xaml.g.cs

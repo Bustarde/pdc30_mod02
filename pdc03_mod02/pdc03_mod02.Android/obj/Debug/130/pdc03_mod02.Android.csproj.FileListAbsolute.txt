@@ -631,3 +631,6 @@ C:\Users\User\source\repos\pdc03_mod02\pdc03_mod02\pdc03_mod02.Android\obj\Debug
 C:\Users\User\source\repos\pdc03_mod02\pdc03_mod02\pdc03_mod02.Android\obj\Debug\130\stamp\_GenerateJavaStubs.stamp
 C:\Users\User\source\repos\pdc03_mod02\pdc03_mod02\pdc03_mod02.Android\obj\Debug\130\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\User\source\repos\pdc03_mod02\pdc03_mod02\pdc03_mod02.Android\obj\Debug\130\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\User\source\repos\pdc03_mod02\pdc03_mod02\pdc03_mod02.Android\obj\Debug\130\res\drawable\image1.png
+C:\Users\User\source\repos\pdc03_mod02\pdc03_mod02\pdc03_mod02.Android\obj\Debug\130\res\drawable\image2.png
+C:\Users\User\source\repos\pdc03_mod02\pdc03_mod02\pdc03_mod02.Android\obj\Debug\130\res\drawable\image3.png
